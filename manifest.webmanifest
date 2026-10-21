@@ -1,0 +1,12 @@
+{
+  "name": "SENSI X — Calibração de Mira",
+  "short_name": "SENSI X",
+  "description": "Gerador e calibrador de sensibilidade para Free Fire com perfil selecionável de iPhone 11 Pro Max.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100d19",
+  "theme_color": "#100d19",
+  "orientation": "portrait",
+  "icons": []
+}
